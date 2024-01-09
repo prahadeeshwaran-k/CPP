@@ -4,4 +4,4 @@ project(CPP)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(CPP
-        "Hello World.cpp")
+        "Basic IO.cpp")
